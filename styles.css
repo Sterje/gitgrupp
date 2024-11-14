@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: moccasin;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foodmenu {
+    background-color: brown;
+    padding: 1rem;
+
+}
+
+p {
+    display: inline-block;
+}
+
+.price {
+    text-align: right;
+}
+
+.flavour {
+    text-align: right;
+}
